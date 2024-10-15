@@ -13,7 +13,7 @@ This project is a multi-threaded tool to back up SQL Server tables by creating S
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/dbbackup.git
+   git clone https://github.com/Cloud-Dark/dbbackup.git
    cd dbbackup
    ```
 
